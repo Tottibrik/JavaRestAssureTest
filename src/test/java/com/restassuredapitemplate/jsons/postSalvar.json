@@ -1,0 +1,35 @@
+{
+  "Entrada": {
+    "Id": 0,
+    "Nome": "${nome}",
+    "Cpf": "${cpf}",
+    "TipoDocumento": ${tipoDocumento},
+    "Documento": "${documento}",
+    "EstadoDocumento": "string",
+    "OrgaoDocumento": "string",
+    "Email": "string",
+    "Telefone1": "string",
+    "Telefone2": "string",
+    "Versao": 0,
+    "Relevancia": true,
+    "PermiteTemMaisAraujo": true,
+    "ClienteFidelidade": true,
+    "Sexo": "string",
+    "DataNascimento": "2022-03-30T16:14:09.199Z",
+    "Endereco": {
+      "Estado": "string",
+      "Id": 0,
+      "Cep": "string",
+      "Numero": 0,
+      "Logradouro": "string",
+      "Complemento": "string",
+      "Bairro": "string",
+      "Cidade": "string",
+      "TipoLogradouro": "string"
+    }
+  },
+  "Auditoria": {
+    "CodigoUsuario": "string",
+    "CodigoEstacao": "string"
+  }
+}
